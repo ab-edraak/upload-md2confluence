@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@shogobg/markdown2confluence": "^0.1.10",
     "dotenv": "^16.4.1",
     "gray-matter": "^4.0.3",
     "node-fetch": "^3.3.2"
